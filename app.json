@@ -1,12 +1,14 @@
 {
-  "name": "app",
-  "displayName": "app",
-  "expo": {
-    "name": "app",
-    "slug": "app",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+	"name": "app",
+	"displayName": "app",
+	"expo": {
+		"name": "app",
+		"slug": "app",
+		"version": "1.0.0",
+		"assetBundlePatterns": ["**/*"]
+	},
+	"splash": {
+		"image": "./assets/splash.png",
+		"backgroundColor": "#FEF9B0"
+	}
 }
